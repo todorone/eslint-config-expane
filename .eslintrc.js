@@ -1,4 +1,3 @@
-
 module.exports = {
     extends: ['standard', 'standard-react', 'prettier'],
     parser: '@typescript-eslint/parser',
