@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-expane",
+  "version": "1.0.0",
+  "description": "ESLint config for expaners",
+  "main": "index.js",
+  "repository": "https://github.com/todorone/eslint-config-expane.git",
+  "author": "Roman <romagritcaenko@gmail.com>",
+  "license": "MIT"
+}
