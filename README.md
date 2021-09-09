@@ -7,7 +7,7 @@
 - add `.eslintrc.js` file to project root:
 ```
 module.exports = {
-  extends: ['liquidity'],
+  extends: ['expane'],
 }
 ```
 - install husky and lint-staged to auto-lint on git commit: `yarn add --dev husky lint-staged`
