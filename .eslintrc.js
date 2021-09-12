@@ -24,4 +24,9 @@ module.exports = {
         },
       ],
     },
+    globals: {
+      __DEV__: true,
+      JSX: true,
+      NodeJS: true,
+    },
   }
