@@ -7,11 +7,15 @@
   "author": "Roman <romagritcaenko@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@typescript-eslint/parser": "4.31.0",
+    "@typescript-eslint/eslint-plugin": "4.31.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-config-standard": "16.0.3",
     "eslint-config-standard-react": "11.0.1",
     "eslint-plugin-jest": "24.4.0",
-    "eslint-plugin-prettier": "4.0.0"
+    "eslint-plugin-prettier": "4.0.0",
+    "eslint-plugin-react": "7.25.1",
+    "eslint-plugin-react-hooks": "4.2.0"
   },
   "devDependencies": {
     "eslint": "7.32.0",
