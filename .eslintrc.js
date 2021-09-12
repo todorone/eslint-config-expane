@@ -7,8 +7,13 @@ module.exports = {
       'jest': true
     },
     rules: {
-      '@typescript-eslint/no-unused-vars': 'warn',
+      '@typescript-eslint/no-unused-vars': 2,
+      '@typescript-eslint/no-unused-expressions': 2,
+      'react/jsx-key': 2,
       'max-params': ['error', 4],
+      'no-unused-expressions': 0,
+      'no-unused-vars': 0,
+      'no-use-before-define': 0,
       'prettier/prettier': [
         'error',
         {
