@@ -10,6 +10,7 @@ module.exports = {
       '@typescript-eslint/no-unused-vars': 2,
       '@typescript-eslint/no-unused-expressions': 2,
       'react/jsx-key': 2,
+      'react/prop-types': 0,
       'max-params': ['error', 4],
       'no-unused-expressions': 0,
       'no-unused-vars': 0,
