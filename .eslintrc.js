@@ -14,6 +14,7 @@ module.exports = {
       'max-params': ['error', 4],
       'no-unused-expressions': 0,
       'no-unused-vars': 0,
+      'no-undef': 0,
       'no-use-before-define': 0,
       'prettier/prettier': [
         'error',
