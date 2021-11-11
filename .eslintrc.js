@@ -16,6 +16,8 @@ module.exports = {
       'no-unused-vars': 0,
       'no-undef': 0,
       'no-use-before-define': 0,
+      "no-console": "warn",
+      "no-implicit-coercion": "warn",
       'prettier/prettier': [
         'error',
         {
