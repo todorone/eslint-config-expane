@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-expane",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "ESLint config for expaners",
   "main": "index.js",
   "repository": "https://github.com/todorone/eslint-config-expane.git",
